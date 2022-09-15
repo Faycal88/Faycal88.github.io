@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Faycal.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/Faycal.github.io/static/js/main.c1d03d9f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Faycal.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/logo.svg": "/Faycal.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Faycal.github.io/index.html",
+    "main.073c9b0a.css.map": "/Faycal.github.io/static/css/main.073c9b0a.css.map",
+    "main.c1d03d9f.js.map": "/Faycal.github.io/static/js/main.c1d03d9f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Faycal.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c1d03d9f.js"
+  ]
+}
